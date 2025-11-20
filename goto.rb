@@ -1,4 +1,4 @@
-class goto < Formula
+class Goto < Formula
   desc "ssh管理工具"
   homepage "https://github.com/kuroimachi/goto"
   url "https://github.com/kuroimachi/goto/releases/download/v1.0.0/goto"
