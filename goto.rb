@@ -1,8 +1,8 @@
 class Goto < Formula
   desc "ssh管理工具"
   homepage "https://github.com/kuroimachi/goto"
-  url "https://github.com/kuroimachi/goto/releases/download/v1.0.1/goto"
-  sha256 "8ccbfe9c36274052b161eb5cf4b0350839e17eca484ad22c3da0f322f62b9f2d"
+  url "https://github.com/kuroimachi/goto/releases/download/v1.0.2/goto"
+  sha256 "e5fcf11fcc102da635d8dc8aaf7aa529861f10aeb6ad690f44c5912730622ece"
 
   def install
     bin.install "goto"
