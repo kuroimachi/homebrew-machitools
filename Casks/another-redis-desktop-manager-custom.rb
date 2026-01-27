@@ -1,4 +1,4 @@
-cask "another-redis-desktop-manager" do
+cask "another-redis-desktop-manager-custom" do
   version "1.0.1"
   sha256 "35f107d90e8cf249229ce5b0a4dcdffde2452f0034214c4c8bd88292dd846c88"
 
