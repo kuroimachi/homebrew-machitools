@@ -1,6 +1,6 @@
 cask "another-redis-desktop-manager-custom" do
-  version "1.0.1"
-  sha256 "4f666d61a1b0d67129000bf55ddc5263d157e97df3dae6951cf2e61addfafc5f"
+  version "1.0.2"
+  sha256 "bc6affbc6b32075a092fb2bab55e3a9ec4c01811c4e565de5dc000af4b5732f4"
 
   url "https://github.com/kuroimachi/AnotherRedisDesktopManager/releases/download/v#{version}/Another.Redis.Desktop.Manager.zip"
   name "Another Redis Desktop Manager"
